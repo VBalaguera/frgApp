@@ -1,4 +1,4 @@
-import React from 'react';
+/* import React from 'react';
 
 import './posts.json.styles.scss'; 
 
@@ -34,4 +34,4 @@ class PostsJson extends React.Component {
     }
 };
 
-export default PostsJson; 
+export default PostsJson;  */
